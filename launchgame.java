@@ -1,4 +1,5 @@
-//Incomplete
+//Incomplete(Two human players can play)
+//Adding AI is due
 import java.util.Scanner;
 
 class TicTacToe{
